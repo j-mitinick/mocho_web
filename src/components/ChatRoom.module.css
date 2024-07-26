@@ -1,0 +1,3 @@
+.messageListContainer::-webkit-scrollbar {
+    display: none;
+}

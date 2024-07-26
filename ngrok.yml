@@ -1,0 +1,11 @@
+version: "2"
+tunnels:
+  app1:
+    addr: 3001
+    proto: http
+  app2:
+    addr: 5173
+    proto: http
+  app3:
+    addr: 80
+    proto: http
